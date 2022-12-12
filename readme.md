@@ -1,0 +1,1 @@
+[Raven (https://github.com/Raven90182)] and I are gonna learn C so we're gonna do this [cool text adventure game in C (https://helderman.github.io/htpataic/htpataic01.html)]
